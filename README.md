@@ -24,6 +24,8 @@ Imbalanced-learn (SMOTE)
 
 Pickle
 
+---
+
 **Dataset**
 
 The dataset (WA_Fn-UseC_-Telco-Customer-Churn.csv) contains information about telecom customers, including their demographics, account details, and usage patterns.
@@ -72,10 +74,13 @@ Classification Report
 
 Save the trained model using Pickle for future use.
 
+---
+
 **Installation & Usage**
 1. Clone the repository:
 
 git clone https://github.com/yourusername/Customer_Churn_Prediction.git
+
 cd Customer_Churn_Prediction
 
 2. Install required dependencies:
@@ -86,6 +91,10 @@ pip install -r requirements.txt
 
 4. Load the saved model and use it for predictions.
 
- ** Results**
+---
+
+**Results**
 
 The trained model helps in identifying potential churners with high accuracy. The best model is selected based on evaluation metrics.
+
+
