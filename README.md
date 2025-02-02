@@ -77,19 +77,19 @@ Save the trained model using Pickle for future use.
 ---
 
 **Installation & Usage**
-1. Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/yourusername/Customer_Churn_Prediction.git
 
 cd Customer_Churn_Prediction
 
-2. Install required dependencies:
+2.Install required dependencies:
 
 pip install -r requirements.txt
 
-3. Run the Jupyter Notebook to train and evaluate the model.
+3.Run the Jupyter Notebook to train and evaluate the model.
 
-4. Load the saved model and use it for predictions.
+4.Load the saved model and use it for predictions.
 
 ---
 
